@@ -1,2 +1,2 @@
-SVN: 1048738167 | Period: 30 | Installation Date: 01/09/2025 | Expired Date: 15/10/2025 | No of Licencse: 1 | Status: Active | Owner: George Stylianou | IP Address: 192.168.2.22 | SerialKey: 9c66d3f49d49c0b8d51c0512a1ff451183aa9a30e5dacfd163c749734193a145 | 
-ActivationKey: c9bae588d716b5098e600a26cab259a62002c77e78dc944d1ce04673744aa57c
+SVN: 1048738167 | Period: 30 | Installation Date: 01/09/2025 | Expired Date: 15/10/2025 | No of Licencse: 1 | Status: Active | Owner: George Stylianou | IP Address: 192.168.2.22 | SerialKey: fb27121b27cc7a9906dd532350c45b7d23948cb6d21cf60304d45ccc92d9e21d | 
+ActivationKey: 527b38cdbeeecb580800b96aa997678c8ef6b22c66e3e728c1affa976c8f25f1
